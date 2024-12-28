@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="flex-1">
             <div className="relative w-64 h-64 md:w-96 md:h-96 mx-auto">
               <img
-                src="./public/assets/profile_pic.jpg"
+                src="/assets/profile_pic.jpg"
                 alt="Savinder Puri"
                 className="rounded-full object-cover w-full h-full shadow-xl ring-2 ring-purple-400/20"
               />
