@@ -4,12 +4,12 @@ const Books = () => {
   const books = [
     {
       title: 'How do I build a career in DevOps?',
-      image: './public/assets/book_1.jpg',
+      image: '/assets/book_1.jpg',
       link: 'https://amzn.to/3QOka0Q',
     },
     {
       title: 'Spirituality & Success',
-      image: './public/assets/book_2.jpg',
+      image: '/assets/book_2.jpg',
       link: 'https://www.amazon.in/Spirituality-Success-guide-spirituality-success/dp/9395192682',
     },
   ];
